@@ -1,7 +1,7 @@
 # Paper-Collection
 <ul>
 
-<li href="https://arxiv.org/pdf/1602.06349.pdf">The Segmented iHMM: A Simple, Efficient Hierarchical Infinite HMM</li><br />
+<li><a href="https://arxiv.org/pdf/1602.06349.pdf">The Segmented iHMM: A Simple, Efficient Hierarchical Infinite HMM</a></li>
 <a href="http://www.mit.edu/~mattjj/papers/uai2010.pdf">The Hierarchical Dirichlet Process Hidden Semi-Markov Model</a><br />
 <a href="http://www.jmlr.org/proceedings/papers/v32/johnson14.pdf">Stochastic Variational Inference for Bayesian Time Series Models</a><br />
 <a href="http://www.jmlr.org/papers/volume14/johnson13a/johnson13a.pdf">Bayesian Nonparametric Hidden Semi-Markov Models, Matthew J. Johnson, Alan S. Willsky</a><br />
