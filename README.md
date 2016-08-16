@@ -1,11 +1,13 @@
 # Paper-Collection
-<a href="https://arxiv.org/pdf/1602.06349.pdf">The Segmented iHMM: A Simple, Efficient Hierarchical Infinite HMM</a><br />
+<ul>
+
+<li href="https://arxiv.org/pdf/1602.06349.pdf">The Segmented iHMM: A Simple, Efficient Hierarchical Infinite HMM</li><br />
 <a href="http://www.mit.edu/~mattjj/papers/uai2010.pdf">The Hierarchical Dirichlet Process Hidden Semi-Markov Model</a><br />
 <a href="http://www.jmlr.org/proceedings/papers/v32/johnson14.pdf">Stochastic Variational Inference for Bayesian Time Series Models</a><br />
 <a href="http://www.jmlr.org/papers/volume14/johnson13a/johnson13a.pdf">Bayesian Nonparametric Hidden Semi-Markov Models, Matthew J. Johnson, Alan S. Willsky</a><br />
 <a href="http://watchnpatch.cs.cornell.edu/paper/watchnpatch_cvpr15.pdf">Watch-n-Patch: Unsupervised Understanding of Actions and Relations, Chenxia Wu, Jiemi Zhang, Silvio Savarese and Ashutosh Saxena, Mar 2016</a><br />
 <a href="http://www.cell.com/neuron/pdf/S0896-6273(14)00793-4.pdf">Toward a Science of Computational Ethology, David J. Anderson and Pietro Perona, Oct 2014</a><br />
-<a href="http://www.pnas.org/content/112/38/E5351.full.pdf">TAutomated measurement of mouse social behaviors using depth sensing, video tracking, and machine learning, Weizhe Honga, Ann Kennedya, Xavier P. Burgos-Artizzub, Moriel Zelikowskya, Santiago G. Navonneb, Pietro Peronab and David J. Anderson, May 2015</a><br />
+<a href="http://www.pnas.org/content/112/38/E5351.full.pdf">Automated measurement of mouse social behaviors using depth sensing, video tracking, and machine learning, Weizhe Honga, Ann Kennedya, Xavier P. Burgos-Artizzub, Moriel Zelikowskya, Santiago G. Navonneb, Pietro Peronab and David J. Anderson, May 2015</a><br />
 <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4771721/pdf/fnins-10-00072.pdf">Murine Depression Model and its Potential Applications for Discovering Foods and Farm Products with Antidepressant-Like Effects, Tatsuhiko Goto, Shozo Tomonaga, Tsuyoshi Okayama and Atsushi Toyod, Mar 2016</a><br />
 <a href="https://elifesciences.org/content/2/e00759#api_box">High-order social interactions in groups of mice, Yair Shemesh Yehezkel Sztainberg Oren Forkosh Tamar Shlapobersky Alon Chen Elad Schneidman, Sep 2013</a><br />
 <a href="https://cocosci.berkeley.edu/tom/papers/ncrp.pdf">The Nested Chinese Restaurant Process and Bayesian Nonparametric Inference of Topic Hierarchies, DAVID M. BLEI, THOMAS L. GRIFFITHS AND MICHAEL I. JORDAN, Jan 2010</a><br />
